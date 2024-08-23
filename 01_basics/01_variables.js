@@ -27,3 +27,6 @@ console.table([
 console.log(accountEmail);
 console.log(accountPassword);
 console.log(accountCity);
+
+
+// this file code run commend : node 01_basics/01_variables.js
