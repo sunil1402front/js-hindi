@@ -27,3 +27,4 @@ const myFunction = function () {
 };
 
 // documentation : // https://262.ecma-international.org/5.1/#sec-11.4.3
+// screenshot : imp-screenshot/typeof-datatype.png

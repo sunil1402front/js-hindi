@@ -19,3 +19,6 @@ userTwo.email = "hitesh@google.com";
 
 console.log(userOne.email);
 console.log(userTwo.email);
+
+
+// screenshot : imp-screenshot/memory-summary.png
