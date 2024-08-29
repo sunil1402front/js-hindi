@@ -1,3 +1,7 @@
+// screenshot : imp-screenshot/memory-summary.png
+// code run in terminal this command : node 02_basics/memory-summary.js
+
+
 // Stack ( Primitive ) , Heap ( Non-Primitive )
 
 let myYotubeName = "SunilSuthar@Youtube.com";
@@ -20,5 +24,3 @@ userTwo.email = "hitesh@google.com";
 console.log(userOne.email);
 console.log(userTwo.email);
 
-
-// screenshot : imp-screenshot/memory-summary.png

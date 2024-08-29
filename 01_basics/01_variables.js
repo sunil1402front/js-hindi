@@ -1,3 +1,5 @@
+// code run in terminal this command : node 01_basics/01_variables.js
+
 const accountId = 1402;
 let accountEmail = "sunilsuthar@mailinator.com";
 var accountPassword = "sunil123";

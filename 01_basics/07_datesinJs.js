@@ -1,3 +1,7 @@
+// code run in terminal this command : node 02_basics/07_datesinJs.js
+
+
+
 // Dates in JavaScript
 
 let myDate = new Date();

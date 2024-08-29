@@ -1,3 +1,6 @@
+// code run in terminal this command : node 02_basics/04_comparision.js
+
+
 console.log(8 > 9); // false
 console.log(8 < 9); // true
 console.log(8 >= 9); // false

@@ -1,3 +1,7 @@
+// code run in terminal this command : node 02_basics/05_string.js
+
+
+
 const name = "SunilSuthar";
 const repoCount = 100;
 

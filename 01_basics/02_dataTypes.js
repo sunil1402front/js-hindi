@@ -1,3 +1,5 @@
+// code run in terminal this command : node 02_basics/02_dataTypes.js
+
 "use strict"; // treat all JS code as newer version
 
 // alert("Hello World"); // we are using node js not browser

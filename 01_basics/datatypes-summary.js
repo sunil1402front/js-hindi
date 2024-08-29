@@ -1,3 +1,7 @@
+// code run in terminal this command : node 02_basics/datatypes-summary.js
+
+
+
 // # Primitive Data Types
 // 7 types : String | Number | Boolean | Undefined | Null | Symbol | BigInt
 

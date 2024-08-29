@@ -1,3 +1,6 @@
+// code run in terminal this command : node 02_basics/06_nums_and_math.js
+
+
 const score = 100;
 console.log(score); // 100
 

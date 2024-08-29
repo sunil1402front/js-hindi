@@ -1,3 +1,5 @@
+// code run in terminal this command : node 02_basics/03_objects.js
+
 // singleton
 // Object.create() // at that type also create a new object
 

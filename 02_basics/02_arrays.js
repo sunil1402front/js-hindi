@@ -1,3 +1,6 @@
+// code run in terminal this command : node 02_basics/02_arrays.js
+
+
 const marvel_heroes = ["Iron Man", "Spider-Man", "Hulk", "Wolverine"];
 const dc_heroes = ["Batman", "Superman", "Wonder Woman", "Flash"];
 const concat_heroes = ["sunil", "prashant"];

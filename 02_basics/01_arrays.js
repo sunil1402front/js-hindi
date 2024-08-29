@@ -1,3 +1,7 @@
+// Read Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+// code run in terminal this command : node 02_basics/01_arrays.js
+
+
 // arrays
 
 const myArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -62,5 +66,3 @@ console.log("B:", myArray);
 const mynumbers2 = myArray.splice(1, 5);
 console.log(mynumbers2);
 console.log("C:", myArray);
-
-// Read Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array

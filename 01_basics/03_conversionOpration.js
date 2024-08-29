@@ -1,3 +1,6 @@
+// code run in terminal this command : node 02_basics/03_conversionOpration.js
+
+
 let score = "30";
 let scoreNumberAndString = "33abc";
 let scoreNull = null;
