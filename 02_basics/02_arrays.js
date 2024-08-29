@@ -36,4 +36,7 @@ let score1 = 100;
 let score2 = 200;
 let score3 = 300;
 
+const stry = String(score1); // number to string
+console.log("🚀 ~ stry:", typeof stry);
+
 console.log("score1", Array.of(score1, score2, score3));
